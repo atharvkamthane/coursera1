@@ -1,0 +1,7 @@
+$ git branch -a
+  bug-fix-typo
+* main
+
+$ git branch -vv
+  bug-fix-typo  ac5dceb Fix typo in README
+* main          4e12bb7 Merge pull request #1 from atharvkamthane/bug-fix-typo
