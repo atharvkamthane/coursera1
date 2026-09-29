@@ -1,0 +1,25 @@
+$ curl -s https://api.github.com/repos/atharvkamthane/mcino-Introduction-to-Git-and-GitHub/pulls/1
+{
+  "url": "https://github.com/atharvkamthane/mcino-Introduction-to-Git-and-GitHub/pull/1",
+  "number": 1,
+  "state": "open",
+  "title": "Fix README wording",
+  "base": {
+    "ref": "main",
+    "repo": {
+      "full_name": "atharvkamthane/mcino-Introduction-to-Git-and-GitHub"
+    }
+  },
+  "head": {
+    "ref": "bug-fix-revert",
+    "repo": {
+      "full_name": "atharvkamthane/mcino-Introduction-to-Git-and-GitHub"
+    }
+  },
+  "user": {
+    "login": "atharvkamthane"
+  }
+}
+
+The output verifies pull request #1 and shows the forked repository:
+atharvkamthane/mcino-Introduction-to-Git-and-GitHub
