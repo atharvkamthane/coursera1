@@ -9,7 +9,7 @@ A simple interest calculator determines the interest earned on a principal amoun
 Where:
 - **Principal** is the initial amount of money.
 - **Rate** is the annual interest rate in percent.
-- **Time** is the duration in years.
+- **Time** is the time period in years.
 
 The total amount after applying simple interest is:
 
