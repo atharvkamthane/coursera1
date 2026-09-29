@@ -1,0 +1,34 @@
+Command:
+curl -s https://api.github.com/repos/atharvkamthane/mcino-Introduction-to-Git-and-GitHub
+
+Terminal Output:
+{
+  "id": 1394624939,
+  "node_id": "R_kgDOUyBJqw",
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "atharvkamthane/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "owner": {
+    "login": "atharvkamthane"
+  },
+  "html_url": "https://github.com/atharvkamthane/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "private": false,
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false
+  },
+  "source": {
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "private": false,
+    "owner": {
+      "login": "ibm-developer-skills-network"
+    },
+    "fork": false
+  }
+}
+
+The output confirms that atharvkamthane/mcino-Introduction-to-Git-and-GitHub is a fork of ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.
